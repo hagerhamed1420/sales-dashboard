@@ -1,20 +1,94 @@
- Sales Analytics Dashboard using Excel—as part of my journey at the Information Technology Institute (ITI)! 🚀
-During my training at ITI, I built a fully interactive sales dashboard using Excel only, demonstrating how spreadsheet tools can be leveraged for powerful business insights without the need for complex BI software.
-📌 Key Highlights & Insights:
-🔹 Total Sales: $9,304
- 🔹 Number of Orders: 121,317
- 🔹 Number of Products: 504
- 🔹 Number of Subcategories: 295
- 🔹 Top Product by Value: $127,421,677
- 🔹 Lowest Product by Value: $8,831,539
-📊 Dashboard visuals include:
-Sales Orders per Category: Accessories led with over 6,000 orders.
-Tax Contribution: Highest from Clothing and Components.
-Credit Card Approvals: Dominated by Bikes and Accessories.
-Product Count by Category: Accessories have the highest count.
-Top 10 Products: Includes helmets, bottles, tubes, and gear.
-Sales by Territory: UK tops all regions, followed by Southeast.
-Average Weight Distribution: Bikes make up over 43% of total weight.
-💡 Tools Used:
-Microsoft Excel: Pivot Tables, Slicers, Charts, Conditional Formatting, and Formulas.
-This dashboard was part of my data analysis training at ITI, and it shows how Excel alone can turn raw data into actionable sales intelligence.
+
+📝 Project Description
+As part of my Data Analysis training at the Information Technology Institute (ITI), I developed an interactive Sales Analytics Dashboard using Microsoft Excel. The goal was to demonstrate how spreadsheet tools can provide powerful business insights without the need for complex BI software.
+
+Our objectives included:
+
+Analyzing company-wide sales performance across multiple dimensions
+
+Identifying top-performing products and regions
+
+Visualizing KPIs and trends to support data-driven decision making
+
+📊 Dataset Overview
+
+Total Sales: $9,304
+
+Number of Orders: 121,317
+
+Number of Products: 504
+
+Number of Subcategories: 295
+
+Top Product by Value: $127,421,677
+
+Lowest Product by Value: $8,831,539
+
+Key Data Dimensions:
+
+Product Category & Subcategory
+
+Order Volume
+
+Territory & Region
+
+Payment Method (e.g., Credit Card)
+
+Product Weight
+
+🛠 Techniques Used
+
+Data Cleaning and Transformation
+
+Pivot Tables and Slicers
+
+Calculated Columns and KPIs
+
+Conditional Formatting for Visual Cues
+
+Data Aggregation and Ranking
+
+Dynamic Filtering and Drill-Downs
+
+📈 Dashboard Overview
+The Excel dashboard was fully interactive, allowing users to explore key sales metrics and uncover insights.
+
+Main Features:
+
+Sales Orders per Category: Accessories led with over 6,000 orders
+
+Tax Contribution: Clothing and Components were the top contributors
+
+Credit Card Approvals: Highest approval rates in Bikes and Accessories
+
+Product Count by Category: Accessories had the highest product count
+
+Top 10 Products: Included helmets, bottles, tubes, and gear
+
+Sales by Territory: UK dominated followed by Southeast
+
+Average Weight Distribution: Bikes accounted for over 43% of total weight
+
+💡 Key Insights
+
+Accessories are the leading category in terms of both sales and product count
+
+The UK territory generated the highest total revenue
+
+Bikes contribute significantly to shipping weight, influencing logistics
+
+Helmets were among the highest-grossing products, indicating seasonal or safety-driven demand
+
+Tax and payment behavior vary by product category, highlighting customer behavior differences
+
+✅ Recommendations
+
+Optimize stock for high-performing products such as helmets and bottles
+
+Leverage UK and Southeast regions for targeted marketing efforts
+
+Review logistics and shipping costs related to bike products due to high weight share
+
+Tailor credit card promotions toward categories with higher approval rates
+
+Monitor Accessories category closely for trends and innovation opportunities
